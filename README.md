@@ -1,0 +1,1 @@
+Gra w papier, kamień i nożyce z ilością żyć oraz chatem. Baza danych jest postawiona na MongoDB, routy w ExpressJS. Klient gry w Pythonie. Chat graczy korzysta z protokołu MQTT.
